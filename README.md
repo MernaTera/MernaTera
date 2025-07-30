@@ -32,15 +32,16 @@ class MernaTera extends FullStackDeveloper {
     ];
   }
   
-  getSuperpowers() {
-    return {
-      frontend: ["React", "Next.js", "Angular", "Vue.js"],
-      backend: ["Node.js", "Laravel", "Django", "Express"],
-      database: ["MongoDB", "PostgreSQL", "MySQL"],
-      cloud: ["Docker", "AWS", "Vercel"],
-      secret_weapon: "Clean, scalable architecture ✨"
-    };
-  }
+getSuperpowers() {
+  return {
+    frontend: ["React", "Next.js", "Angular", "Vue.js", "Tailwind", "TypeScript"],
+    backend: ["Node.js", "Laravel", "Django", "Express", "Nest.js", "Odoo"],
+    database: ["MongoDB", "PostgreSQL", "MySQL"],
+    cloud: ["Docker", "AWS", "Vercel"],
+    cms: ["WordPress"],
+    secret_weapon: "Clean, scalable architecture ✨"
+  };
+}
 }
 ```
 
@@ -66,6 +67,9 @@ class MernaTera extends FullStackDeveloper {
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+
 
 ### 🗄️ **Data Mastery**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -77,6 +81,13 @@ class MernaTera extends FullStackDeveloper {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+### 🔧 ** CMS & Platforms**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-772953?style=for-the-badge&logo=odoo&logoColor=white)
 
 </div>
 
@@ -86,13 +97,13 @@ class MernaTera extends FullStackDeveloper {
 
 <div align="center">
 
-| 🚀 **Project** | 🛠️ **Tech Stack** | ⭐ **Status** | 🔗 **Action** |
+| 🚀 **Project** | 🛠️ **Tech Stack** | ⭐ **Status** 
 |:---|:---:|:---:|:---:|
-| 💎 **Jewelry Empire** <br/> *Luxury eCommerce Platform* | `Angular` `Node.js` `MongoDB` | 🔥 **Live** | [![View](https://img.shields.io/badge/🚀-Launch-FF6B6B?style=flat-square)](https://github.com/MernaTera/jewelry-shop) |
-| 🏨 **Hotel Nexus** <br/> *Smart Booking System* | `Laravel` `MySQL` `Vue.js` | ✨ **Featured** | [![View](https://img.shields.io/badge/🏆-Explore-4ECDC4?style=flat-square)](https://github.com/MernaTera/hotel-booking) |
-| 👥 **CommunITI Hub** <br/> *Event Management Platform* | `React` `Laravel` `PostgreSQL` | 🎯 **Active** | [![View](https://img.shields.io/badge/⚡-Discover-45B7D1?style=flat-square)](https://github.com/MernaTera/communiti) |
-| 💡 **FundMe Revolution** <br/> *Crowdfunding Platform* | `Django` `PostgreSQL` `React` | 🌟 **Trending** | [![View](https://img.shields.io/badge/🔥-Experience-F7B731?style=flat-square)](https://github.com/MernaTera/fundme) |
-| 🌐 **Digital Showcase** <br/> *Personal Portfolio* | `Next.js` `Laravel API` `Tailwind` | 💫 **Masterpiece** | [![View](https://img.shields.io/badge/✨-Enter-9B59B6?style=flat-square)](https://github.com/MernaTera/portfolio) |
+| 💎 **Jewelry Empire** <br/> *Luxury eCommerce Platform* | `Angular` `Node.js` `MongoDB` | 🔥 **Live** 
+| 🏨 **Hotel Nexus** <br/> *Smart Booking System* | `Laravel` `MySQL` `Vue.js` | ✨ **Featured** 
+| 👥 **CommunITI Hub** <br/> *Event Management Platform* | `React` `Laravel` `PostgreSQL` | 🎯 **Active** 
+| 💡 **FundMe Revolution** <br/> *Crowdfunding Platform* | `Django` `PostgreSQL` `React` | 🌟 **Trending** 
+| 🌐 **Digital Showcase** <br/> *Personal Portfolio* | `Next.js` `Laravel API` `Tailwind` | 💫 **Masterpiece** 
 
 </div>
 
@@ -135,10 +146,9 @@ class MernaTera extends FullStackDeveloper {
 
 ### 🔗 **Quick Access Portals**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/merna-tera/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/merna-teraa/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://merna-tera-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MernaTera)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mernatera@live.com)
 
 ### 💬 **Open for Collaboration**
 
