@@ -1,178 +1,311 @@
-<h1 align="center">Hi 👋, I'm Merna Tera</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Merna%20Tera&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Digital%20Architect&descAlignY=51&descAlign=62)</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F73D93&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Love+clean+code+%26+creative+UI;Let's+build+awesome+things+together!" alt="Typing SVG" />
-</p>
+<div align="center">
+  
+  <!-- Dynamic Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+the+Future+with+Code;💡+Transforming+Ideas+into+Reality;⚡+Full+Stack+%7C+Cloud+%7C+AI+Integration;🌟+Let's+Create+Something+Amazing!" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🎯 Mission Control Center
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **About Me**
 
-<details>
-<summary>🔥 <b>Click to Activate Developer Mode</b> 🔥</summary>
+<img align="right" alt="Developer" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```javascript
-class MernaTera extends FullStackDeveloper {
-  constructor() {
-    super();
-    this.name = "Merna Tera";
-    this.role = "Digital Architect & Code Magician";
-    this.location = "🌍 Remote & Global";
-    this.coffee_level = "☕☕☕☕☕ (Maximum)";
-    this.debugging_power = "Over 9000";
-  }
-  
-  getCurrentlyDoing() {
-    return [
-      "🔨 Building the next big thing",
-      "🧠 Learning cutting-edge tech",
-      "🚀 Optimizing for light speed",
-      "💡 Turning ideas into reality"
-    ];
-  }
-  
-getSuperpowers() {
-  return {
-    frontend: ["React", "Next.js", "Angular", "Vue.js", "Tailwind", "TypeScript"],
-    backend: ["Node.js", "Laravel", "Django", "Express", "Nest.js", "Odoo"],
-    database: ["MongoDB", "PostgreSQL", "MySQL"],
-    cloud: ["Docker", "AWS", "Vercel"],
-    cms: ["WordPress"],
-    secret_weapon: "Clean, scalable architecture ✨"
-  };
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  passion: string[];
+  currentFocus: string;
+  funFact: string;
 }
-}
+
+const mernaTera: Developer = {
+  name: "Merna Tera",
+  role: "Full Stack Developer & Digital Architect",
+  location: "🌍 Remote & Global",
+  passion: [
+    "Clean Code Architecture",
+    "Innovative UI/UX Design", 
+    "Scalable Cloud Solutions",
+    "AI Integration"
+  ],
+  currentFocus: "Building next-gen SaaS platforms",
+  funFact: "I debug with my morning coffee ☕"
+};
 ```
 
-</details>
+<br clear="right"/>
 
 ---
 
-## 🛠️ **Arsenal of Creation**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Tech Arsenal**
 
 <div align="center">
 
-### 🎨 **Frontend Wizardry**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+### 🎨 **Frontend Mastery**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-### ⚡ **Backend Sorcery**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)](https://nextjs.org/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031)](https://angular.io/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=35495E)](https://vuejs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)](https://tailwindcss.com/)
 
+</div>
 
+### ⚡ **Backend Excellence**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-### 🗄️ **Data Mastery**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=43853D)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=404D59)](https://expressjs.com/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=E0234E)](https://nestjs.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20)](https://laravel.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)](https://www.djangoproject.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)](https://www.python.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)](https://www.php.net/)
 
-### 🔧 **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
 
+### 🗄️ **Database & Storage**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-### 🔧 ** CMS & Platforms**
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-772953?style=for-the-badge&logo=odoo&logoColor=white)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=005C84)](https://www.mysql.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D)](https://redis.io/)
+
+</div>
+
+### 🚀 **DevOps & Cloud**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)](https://aws.amazon.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://vercel.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/)
+
+</div>
+
+### 🛠️ **Tools & Platforms**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B)](https://wordpress.org/)
+[![Odoo](https://img.shields.io/badge/Odoo-772953?style=for-the-badge&logo=odoo&logoColor=white&labelColor=772953)](https://www.odoo.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)](https://www.figma.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37)](https://www.postman.com/)
+
+</div>
 
 </div>
 
 ---
 
-## 🏆 **Hall of Digital Fame**
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40"> **Featured Projects**
 
 <div align="center">
 
-| 🚀 **Project** | 🛠️ **Tech Stack** | ⭐ **Status** 
-|:---|:---:|:---:|:---:|
-| 💎 **Jewelry Empire** <br/> *Luxury eCommerce Platform* | `Angular` `Node.js` `MongoDB` | 🔥 **Live** 
-| 🏨 **Hotel Nexus** <br/> *Smart Booking System* | `Laravel` `MySQL` `Vue.js` | ✨ **Featured** 
-| 👥 **CommunITI Hub** <br/> *Event Management Platform* | `React` `Laravel` `PostgreSQL` | 🎯 **Active** 
-| 💡 **FundMe Revolution** <br/> *Crowdfunding Platform* | `Django` `PostgreSQL` `React` | 🌟 **Trending** 
-| 🌐 **Digital Showcase** <br/> *Personal Portfolio* | `Next.js` `Laravel API` `Tailwind` | 💫 **Masterpiece** 
+### 🏆 **Hall of Digital Excellence**
+
+<table>
+<tr>
+<td width="50%">
+
+### 💎 **Jewelry Empire**
+[![Jewelry Empire](https://img.shields.io/badge/🔥_Live_Project-FF6B6B?style=for-the-badge&logoColor=white)](https://jewelry-empire.vercel.app)
+
+**Luxury eCommerce Platform**
+- 🛠️ `Angular` `Node.js` `MongoDB` 
+- ⚡ Real-time inventory management
+- 💳 Secure payment integration
+- 📱 Fully responsive design
+
+</td>
+<td width="50%">
+
+### 🏨 **Hotel Nexus**
+[![Hotel Nexus](https://img.shields.io/badge/✨_Featured-4ECDC4?style=for-the-badge&logoColor=white)](https://hotel-nexus.vercel.app)
+
+**Smart Booking System**
+- 🛠️ `Laravel` `MySQL` `Vue.js`
+- 🗓️ Advanced booking algorithms  
+- 🌍 Multi-language support
+- 📊 Analytics dashboard
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👥 **CommunITI Hub** 
+[![CommunITI Hub](https://img.shields.io/badge/🎯_Active-00D9FF?style=for-the-badge&logoColor=white)](https://communiti-hub.vercel.app)
+
+**Event Management Platform**
+- 🛠️ `React` `Laravel` `PostgreSQL`
+- 🎪 Event creation & management
+- 💬 Real-time chat system
+- 📈 Attendee analytics
+
+</td>
+<td width="50%">
+
+### 💡 **FundMe Revolution**
+[![FundMe Revolution](https://img.shields.io/badge/🌟_Trending-F7B731?style=for-the-badge&logoColor=white)](https://fundme-revolution.vercel.app)
+
+**Crowdfunding Platform**
+- 🛠️ `Django` `PostgreSQL` `React`
+- 💰 Secure payment processing
+- 📊 Campaign analytics
+- 🔒 KYC verification system
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 **Performance Dashboard**
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Analytics**
 
 <div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MernaTera&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MernaTera&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=F7B731&currStreakLabel=FF6B6B" />
-  
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MernaTera&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MernaTera&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" />
+
+<a href="https://github.com/MernaTera">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MernaTera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=4ECDC4&text_color=C9D1D9&ring_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MernaTera&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</a>
+
+<a href="https://github.com/MernaTera">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MernaTera&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=4ECDC4&fire=F7B731&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" />
+</a>
+
+### 📊 **Contribution Graph**
+[![Merna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MernaTera&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=4ECDC4&point=F7B731)](https://github.com/MernaTera)
 
 </div>
 
 ---
 
-## 🎮 **Achievement Unlocked**
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Achievement Dashboard**
 
 <div align="center">
-
-```diff
-+ 🏆 500+ Commits This Year
-+ 🌟 15+ Successful Projects Deployed
-+ ⚡ 99.9% Uptime Achievement
-+ 🔥 10,000+ Lines of Clean Code
-+ 💎 5-Star Code Review Average
-+ 🚀 Zero Critical Bugs in Production
-```
-
-</div>
-
----
-
-## 🌈 **Connect with the Matrix**
-
-<div align="center">
-
-### 🔗 **Quick Access Portals**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/merna-teraa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://merna-tera-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mernatera@live.com)
-
-### 💬 **Open for Collaboration**
 
 ```yaml
-status: "Available for exciting projects"
-interests: ["Full Stack Development", "System Architecture", "UI/UX Design"]
-collaboration: "Always open to innovative ideas"
-response_time: "< 24 hours"
+🏆 GitHub Achievements:
+  ├── 📈 500+ Commits This Year
+  ├── ⭐ 15+ Successful Projects  
+  ├── 🔥 10,000+ Lines of Code
+  ├── 💎 5-Star Code Reviews
+  ├── 🚀 99.9% Uptime Record
+  └── 🌟 Zero Critical Bugs
+
+💡 Current Streak: 42 days
+🎯 Projects Completed: 25+
+⚡ Response Time: < 24 hours
+```
+
+### 🎮 **Coding Stats**
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MernaTera&theme=tokyonight)
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MernaTera&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MernaTera&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MernaTera&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MernaTera&theme=tokyonight&utcOffset=2)
+
+</div>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40"> **Connect & Collaborate**
+
+<div align="center">
+
+### 🌐 **Let's Build Something Amazing Together!**
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/merna-teraa/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722)](https://merna-tera-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:mernatera@live.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/MernaTera)
+
+</div>
+
+### 💼 **Professional Status**
+
+```typescript
+const availabilityStatus = {
+  status: "🟢 Available for exciting projects",
+  interests: [
+    "Full Stack Development",
+    "System Architecture", 
+    "AI Integration",
+    "Cloud Solutions"
+  ],
+  collaboration: "Always open to innovative ideas",
+  responseTime: "< 24 hours",
+  timezone: "UTC+2"
+};
 ```
 
 </div>
 
 ---
 
-## 🎯 **Current Quest Log**
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> **Current Missions**
 
 <div align="center">
 
-| 📋 **Mission** | 📈 **Progress** | 🎯 **ETA** |
-|:---|:---:|:---:|
-| 🧠 Mastering AI Integration | ████████░░ 80% | Q3 2025 |
-| 🌐 Building SaaS Platform | ██████░░░░ 60% | Q4 2025 |
-| 📱 Mobile App Development | ████░░░░░░ 40% | Q1 2026 |
-| 🚀 Open Source Contribution | ██████████ 100% | Ongoing |
+| 🎯 **Mission** | 📊 **Progress** | 🚀 **Status** | ⏰ **ETA** |
+|:---|:---:|:---:|:---:|
+| 🤖 AI Integration Mastery | ![80%](https://progress-bar.dev/80?color=00D9FF) | `In Progress` | Q3 2025 |
+| 🌐 SaaS Platform Development | ![65%](https://progress-bar.dev/65?color=4ECDC4) | `Active` | Q4 2025 |
+| 📱 Mobile App Framework | ![40%](https://progress-bar.dev/40?color=F7B731) | `Planning` | Q1 2026 |
+| 🔮 Next.js 15 Migration | ![90%](https://progress-bar.dev/90?color=FF6B6B) | `Almost Done` | Aug 2025 |
+| 🚀 Open Source Contributions | ![100%](https://progress-bar.dev/100?color=00D9FF) | `Ongoing` | Continuous |
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> **Fun Zone**
+
+<div align="center">
+
+### 🎨 **Code Philosophy**
+
+```javascript
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+    
+    if (bugs.length > 0) {
+        debugWithCoffee();
+    }
+    
+    deployToProduction();
+}
+```
+
+### 🎭 **Developer Humor**
+> *"There are only 10 types of people in the world: those who understand binary and those who don't."*
+
+### ☕ **Coffee Dependency Level**
+![Coffee](https://progress-bar.dev/95?scale=100&title=Coffee&width=400&color=8B4513&suffix=%20Caffeinated)
 
 </div>
 
@@ -180,19 +313,16 @@ response_time: "< 24 hours"
 
 <div align="center">
 
-### 🎨 **Code is Art, Art is Code**
+### 🌟 **"Code is Poetry, Logic is Art"** 🌟
 
-```
-    "First, solve the problem. Then, write the code."
-                    - John Johnson
-```
-
-**🌟 Thanks for visiting my digital realm! Let's build something amazing together! 🌟**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling&fontColor=fff" width="100%"/>
 
 ---
 
-<sub>💫 **Visitor Counter:** ![Visitors](https://komarev.com/ghpvc/?username=MernaTera&style=flat-square&color=FF6B6B) • **Last Updated:** ![Date](https://img.shields.io/badge/dynamic/json?color=4ECDC4&label=Last%20Commit&query=%24.commit.author.date&url=https%3A//api.github.com/repos/MernaTera/MernaTera/commits&style=flat-square)</sub>
+<img src="https://komarev.com/ghpvc/?username=MernaTera&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Profile Views"/>
+
+**Last Updated:** `July 2025` • **Made with** ❤️ **and lots of** ☕
+
+*Thanks for visiting my digital realm! Let's create something extraordinary together!* ✨
 
 </div>
