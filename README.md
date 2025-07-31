@@ -1,11 +1,8 @@
 # <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Merna%20Tera&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Digital%20Architect&descAlignY=51&descAlign=62)</div>
 
-<div align="center">
-
-<!-- Simple Working Version -->
-<img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Building+the+Future+with+Code;Transforming+Ideas+into+Reality;Full+Stack+Developer;Let's+Create+Something+Amazing!&font=Fira%20Code&center=true&width=600&height=50&color=00D9FF&vCenter=true&size=24" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F73D93&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Love+clean+code+%26+creative+UI;Let's+build+awesome+things+together!" alt="Typing SVG" />
+</p>
 
 ---
 
