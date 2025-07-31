@@ -1,10 +1,12 @@
 # <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Merna%20Tera&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Digital%20Architect&descAlignY=51&descAlign=62)</div>
 
 <div align="center">
-  
-  <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+the+Future+with+Code;💡+Transforming+Ideas+into+Reality;⚡+Full+Stack+%7C+Cloud+%7C+AI+Integration;🌟+Let's+Create+Something+Amazing!" alt="Typing SVG" />
-
+<!-- Enhanced Dynamic Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=🚀+Building+the+Future+with+Code;💡+Transforming+Ideas+into+Reality;⚡+Full+Stack+Developer+%7C+Cloud+Architect;🌟+Let's+Create+Something+Amazing+Together!" alt="Typing SVG" />
+<!-- Alternative version with different styling -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&random=false&width=750&height=80&lines=🔥+Passionate+Full+Stack+Developer;💻+Clean+Code+%26+Creative+Solutions;🚀+Building+Scalable+Web+Applications;✨+Always+Learning+New+Technologies" alt="Alternative Typing SVG" />
+<!-- Gradient style version -->
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=30&duration=2000&pause=500&color=F73D93&center=true&vCenter=true&width=900&height=100&lines=👋+Hi%2C+I'm+Merna+Tera;🌍+Full+Stack+Developer+from+Egypt;💡+Love+Clean+Code+%26+Innovation;🚀+Let's+Build+Amazing+Projects!" alt="Gradient Typing SVG" />
 </div>
 
 ---
