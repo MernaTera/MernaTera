@@ -5,12 +5,6 @@
 <!-- Simple Working Version -->
 <img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Building+the+Future+with+Code;Transforming+Ideas+into+Reality;Full+Stack+Developer;Let's+Create+Something+Amazing!&font=Fira%20Code&center=true&width=600&height=50&color=00D9FF&vCenter=true&size=24" />
 
-<!-- Alternative simple version -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Merna+Tera;Full+Stack+Developer;Passionate+About+Clean+Code;Always+Learning+New+Tech&center=true&width=500&height=60&color=4ECDC4&size=22" />
-
-<!-- Most basic version that always works -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Building+Amazing+Applications;Clean+Code+Enthusiast&center=true&color=00D9FF" />
-
 </div>
 
 ---
